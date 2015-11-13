@@ -1,0 +1,20 @@
+body {
+  font-family: 'Rokkitt', 'helvetica neue', sans-serif;
+  font-weight: 300;
+  color: #FFFFFF;
+  background: black;
+  height: 100%;
+}
+#bulls {
+	width: 300px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+.table {
+	color: #999999;
+}
+h4 {
+	font-style: 700;
+	color: #FFFFFF;
+}
